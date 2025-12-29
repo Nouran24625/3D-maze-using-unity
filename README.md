@@ -29,10 +29,6 @@ There is no UI or menu. There's only one scene in the build. Pressing ESC will e
 
 Player control, by default, is set to the original control. This allows you to travel the maze in a grid like fashion (like the old Eye of the Beholder games) moving square by square. The modern control option is a free roam with mouse control. This is set by the Control Type dropdown on the Player object in the scene.
 
-## History
-
-3D Maze is the name given to a screensaver, created in OpenGL, that was present in Microsoft Windows from Windows 95[1] until it was discontinued after Windows ME.
-
 ## Requirements
 
 * Unity 2021.x or higher (not tested with Unity 2022.x, might work on versions earlier than 2021 too)
